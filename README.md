@@ -6,7 +6,7 @@ Hello there! I'm Cristian Henriquez, a Process Manager who specializes in Data A
 ### Programming Languages
 - C++
 - C#
-- Dart
+- R
 - SQL
 ### Statistical Analysis
 - Minitab
