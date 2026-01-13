@@ -1,5 +1,5 @@
 # Cristian Henriquez
-**Process Manager | Data Analysis & Process Optimization Specialist**
+**Process Manager | Data Analysis | Process Optimization Specialist**
 
 Hello! I'm Cristian Henriquez, a Process Manager passionate about **data analysis**, **process improvement**, and **automation**. I am Six Sigma - Black Belt certified. I thrive on transforming complex data into actionable insights, optimizing workflows, and leveraging technology to drive efficiency across operations.
 
